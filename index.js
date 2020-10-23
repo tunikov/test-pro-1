@@ -1,3 +1,3 @@
-const a = require("./moda");
+const { a } = require("./moda");
 
-console.log(a.a);
+console.log(a);
