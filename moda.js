@@ -1,4 +1,5 @@
 module.exports = {
   a: 10,
-  c: "new feature"
+  c: "new feature",
+  b: "test"
 };
